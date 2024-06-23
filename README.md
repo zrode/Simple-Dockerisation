@@ -1,0 +1,1 @@
+Le but ici est juste de Dockeriser une application Maven et d'afficher le message.
